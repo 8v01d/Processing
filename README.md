@@ -1,5 +1,4 @@
 # Processing
-Processing Sketches
 
 | Code File on GitHub | YouTube Video Link |
 | :---: | ------------- |
