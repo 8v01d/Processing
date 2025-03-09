@@ -1,6 +1,6 @@
 # Processing
 Processing Sketches
 
-| Code File on GitHub | YouTube Video | YouTube Video Title |
-| :---: | ------------- | ------------- |
-| 1 | https://youtu.be/SnLI_if51_w | (1) Processing - Gifs - Circle Twist |
+| Code File on GitHub | YouTube Video Link |
+| :---: | ------------- |
+| 1 |  [(1) Processing - Gifs - Circle Twist](https://youtube.com/watch?v=SnLI_if51_w) |
